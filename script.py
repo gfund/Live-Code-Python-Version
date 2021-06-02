@@ -1,0 +1,5 @@
+print(2)
+print("ʩ")
+print(3)
+print("3")
+print(2/1)
