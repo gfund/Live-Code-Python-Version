@@ -1,5 +1,2 @@
-print(2)
-print("ʩ")
-print(3)
-print("3")
-print(2/1)
+x=2+2
+print(x)
