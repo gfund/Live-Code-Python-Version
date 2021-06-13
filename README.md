@@ -3,3 +3,5 @@ The script in main.py allows you to write a code into script.py and then if scri
 which makes development easier
 
 Gunnar Funderburk
+
+Note to self: Async code does not work yet with this. Blast it...
